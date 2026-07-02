@@ -27,18 +27,20 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=wonjun-s-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wonjun-s-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/wakatime?username=wonjun-s-dev&theme=tokyonight&hide_border=true" />
-</p>
-
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=wonjun-s-dev&show_icons=true&theme=tokyonight&hide_border=true" /></td>
+    <td width="50%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wonjun-s-dev&layout=compact&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/pin/?username=wonjun-s-dev&repo=wonjun-s-dev.github.io&theme=tokyonight&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=wonjun-s-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
+<table width="100%" align="center">
+  <tr>
+    <td width="60%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=wonjun-s-dev&repo=wonjun-s-dev.github.io&theme=tokyonight&hide_border=true" /></td>
+    <td width="40%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api/wakatime?username=wonjun-s-dev&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+</table>
