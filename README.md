@@ -23,6 +23,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
+## Tech Blog
+
+**GithubPages**
+[Wonjun's Blog](https://wonjun-s-dev.github.io/)
+
 ---
 
 ## GitHub Stats
