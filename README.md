@@ -28,10 +28,17 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wonjun-s-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun-s-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=wonjun-s-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wonjun-s-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun-s-dev&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/wakatime?username=wonjun-s-dev&theme=tokyonight&hide_border=true" />
 </p>
+
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/pin/?username=wonjun-s-dev&repo=wonjun-s-dev.github.io&theme=tokyonight&hide_border=true" />
+</p>
+
