@@ -41,6 +41,6 @@
 <table width="100%" align="center">
   <tr>
     <td width="60%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=wonjun-s-dev&repo=wonjun-s-dev.github.io&theme=tokyonight&hide_border=true" /></td>
-    <td width="40%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api/wakatime?username=wonjun-s-dev&theme=tokyonight&hide_border=true" /></td>
+    <td width="40%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api/wakatime?username=wonjun&theme=tokyonight&hide_border=true" /></td>
   </tr>
 </table>
