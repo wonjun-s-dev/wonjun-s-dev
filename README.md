@@ -28,6 +28,8 @@
 **GithubPages**
 [Wonjun's Blog](https://wonjun-s-dev.github.io/)
 
+[![wakatime](https://wakatime.com/badge/user/84c2fa80-7f16-4bbd-a8f1-4eca40e80d89.svg)](https://wakatime.com/@84c2fa80-7f16-4bbd-a8f1-4eca40e80d89)
+
 ---
 
 ## GitHub Stats
