@@ -29,8 +29,8 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=wonjun-s-dev&show_icons=true&theme=tokyonight&hide_border=true" /></td>
-    <td width="50%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wonjun-s-dev&layout=compact&theme=tokyonight&hide_border=true" /></td>
+    <td width="56%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=wonjun-s-dev&show_icons=true&theme=tokyonight&hide_border=true" /></td>
+    <td width="44%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wonjun-s-dev&layout=compact&theme=tokyonight&hide_border=true" /></td>
   </tr>
 </table>
 
